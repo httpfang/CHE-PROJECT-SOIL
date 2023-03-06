@@ -1,0 +1,22 @@
+body {
+	background-color: #7213eb;
+}
+h1 {
+	text-align: center;
+	background-color: purple;
+	color: black;
+	margin: 0 0;
+	padding: 0 0;
+}
+
+h3 {
+	margin-top: 15px;
+}
+
+img {
+	height: 100px;
+	width: 100px;
+	float: right;
+	margin-right: 70px;
+}
+
