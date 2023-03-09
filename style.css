@@ -5,8 +5,7 @@ h1 {
 	text-align: center;
 	background-color: purple;
 	color: black;
-	margin: 0 0;
-	padding: 0 0;
+	margin: auto 0;
 }
 
 h3 {
@@ -21,7 +20,17 @@ img {
 	margin-right: 70px;
 }
 
-ul {
-	
+hr{
+  margin-top: 30px;
+  margin-bottom: 30px;
+	margin-left: 40%;
+  width: 5%;
+  border: 10px dotted #EAF6F6;
+  border-bottom: none;
+}
+
+::selection{
+	color: yellowgreen;
+	background-color: black;
 }
 
